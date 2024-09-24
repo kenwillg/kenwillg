@@ -1,4 +1,4 @@
-![Header image that says "Hi, I'm Kenneth!](github-header-image(1).png)
+![Header image that says "Hi, I'm Kenneth!](headerimg.png)
 <h1 align="center">Hi 👋, I'm Kenneth William Gunawan</h1>
 <h3 align="center">An informatics enthusiast</h3>
 
